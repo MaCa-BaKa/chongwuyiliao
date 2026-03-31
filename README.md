@@ -1,5 +1,7 @@
 # 29-宠物医疗管理系统 - 一键智能推荐方案
 
+[文档地址](http://wechat.zjrcsy.cn/)
+
 #### 介绍
 技术：
 基于 B/S 架构 SpringBoot+MySQL+vue+elementui
@@ -115,4 +117,6 @@ node
 
 ![医生](https://yunzhuceshi.oss-cn-beijing.aliyuncs.com/typoraImg/医生.jpg)
 
-xv:  MaKaBaca0
+
+
+[文档地址](http://wechat.zjrcsy.cn/)
